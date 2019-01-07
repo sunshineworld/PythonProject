@@ -1,0 +1,7 @@
+jinja2
+mako
+speaklater
+pytest
+pytest-cov
+html5lib
+six
